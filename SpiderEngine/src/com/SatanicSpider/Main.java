@@ -15,6 +15,7 @@ import com.SatanicSpider.Management.Physics.PhysicsManager;
 import com.SatanicSpider.Management.Render.RenderManager;
 import static com.SatanicSpider.Management.Render.RenderManager.engine;
 import com.SatanicSpider.Scripting.Exposure;
+import com.SatanicSpider.Scriptoholic.GUIConsole;
 import com.SatanicSpider.Storage.Storage;
 import com.SatanicSpider.Systems.EntityTimeToLiveKiller;
 import com.SatanicSpider.Systems.Game.DamageHandler;
@@ -41,11 +42,9 @@ import com.jme3.input.controls.KeyTrigger;
 import com.jme3.math.Vector3f;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Scanner;
-
 import javax.script.ScriptEngineManager;
 import org.jbox2d.common.Vec2;
-import scriptoholic2.GUIConsole;
+
 
 //TODO: RPG Player Speed Component
 //TODO

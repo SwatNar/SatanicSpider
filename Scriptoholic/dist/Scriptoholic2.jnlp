@@ -11,11 +11,11 @@
   </resources>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="Scriptoholic2.jar" size="2499" download="eager" />
+    <jar href="Scriptoholic2.jar" size="13899" download="eager" />
   </resources>
   <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Scriptoholic2" >
     <param name="requiredFXVersion" value="8.0+"/>
   </applet-desc>
-  <jfx:javafx-desc  width="800" height="600" main-class="scriptoholic2.Scriptoholic2"  name="Scriptoholic2" />
+  <jfx:javafx-desc  width="800" height="600" main-class="com.SatanicSpider.Scriptoholic.Scriptoholic2"  name="Scriptoholic2" />
   <update check="always"/>
 </jnlp>
